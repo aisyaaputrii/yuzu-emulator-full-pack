@@ -163,4 +163,4 @@ Bluetooth, not USB. Enable it per game in the input tab.
 
 ---
 
-*Yuzu Emulator · Updated 2026-11-11 · Shared under the MIT License*
+*Yuzu Emulator · Updated 2026-11-12 · Shared under the MIT License*
